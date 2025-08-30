@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MainConfig>
+	<TestCol1>1</TestCol1>
+	<TestCol2>2</TestCol2>
+	<TestCol3>テストデータ1</TestCol3>
+</MainConfig>

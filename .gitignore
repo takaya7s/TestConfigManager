@@ -1,0 +1,11 @@
+.vs/
+packages/
+bin/
+x64/
+
+ConfigManager/_bk/
+ConfigManager/bin/
+ConfigManager/obj/
+TestConfigManager/_bk/
+TestConfigManager/bin/
+TestConfigManager/obj/
